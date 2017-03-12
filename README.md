@@ -6,6 +6,8 @@ CodeBook.md
 
 run_analysis.R 
 
+TidyData.txt
+
 ## Description
 
 This data set is the result of process the information from cellphones embedded accelerometer and gyroscope. 
